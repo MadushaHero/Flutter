@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+www/aiyo/main_dart_file/BuildConfig.java
+ www.aiyo.main_dart_file.BuildConfig
